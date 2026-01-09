@@ -1,11 +1,9 @@
-# Obsidian workspace cache
-.obsidian/workspace*
-.obsidian/cache
-.obsidian/plugins/*/data.json
+# Obsidian config (ignore ALL)
+.obsidian/
 
-# macOS system files
+# macOS
 .DS_Store
 
-# Temporary files
+# Temporary / editor files
 *.tmp
 *.swp
